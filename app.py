@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import joblib
@@ -82,4 +81,4 @@ if st.button("Predict Price"):
     st.success(f"💰 Estimated Car Price: ${prediction:,.2f}")
 
 st.markdown("---")
-st.caption("Developed by Muhsan Tech | Machine Learning Project")
+st.caption("Developed by Shumaila jawed | Machine Learning Project")

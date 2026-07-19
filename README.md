@@ -95,34 +95,6 @@ Car-Price-Prediction/
 
 ---
 
-## 🚀 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Car-Price-Prediction.git
-```
-
-Move into the project directory
-
-```bash
-cd Car-Price-Prediction
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## 📈 Model Inputs
 
 The model expects the following information:
@@ -137,31 +109,6 @@ The model expects the following information:
 - Condition
 
 These features are automatically converted into the encoded format before prediction.
-
----
-
-## 📷 Application Preview
-
-*(Add screenshots here after deployment.)*
-
-Example:
-
-```
-Home Page Screenshot
-
-Prediction Result Screenshot
-```
-
----
-
-## 📌 Future Improvements
-
-- Add more car brands
-- Improve model accuracy
-- Deploy on Hugging Face Spaces
-- Add data visualization dashboard
-- Support multiple ML models for comparison
-
 ---
 
 ## 👩‍💻 Author
